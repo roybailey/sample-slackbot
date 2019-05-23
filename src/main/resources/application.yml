@@ -1,0 +1,10 @@
+demo:
+  slack:
+    enabled: true
+    token: <TOKEN GOES HERE>
+    channel: <CHANNEL GOES HERE>
+    filterlist:
+      - 'anna'
+      - 'bob'
+      - 'charles'
+
